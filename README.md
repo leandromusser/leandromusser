@@ -1,5 +1,7 @@
 ### Olá!
 
-Em processo de reestruturação. Se você é recrutador, analise meu projeto pessoal "Shin Cache Tensei" para avaliar meu nível de conhecimento mais atual.
+Sou apenas alguém construindo uma carreira onde eu possa aplicar conceitos de back-end, DevOps e tudo mais que tenha muito texto, linha de comando e código. Sou a pessoa certa para tarefas que demandem muita paciência. 
 
-Atualmente, estou focado em tecnologias como: C#, ASP.NET Core, SQL, NUnit, Swagger, Postman, entre outras, fortalecendo a parte prática para reestruturar meu Github. Fazer algo funcionar é fácil, mas fazer isso do jeito certo é outra história, por isso dou muito valor a boas práticas, questões de eficiência, lógica por trás das coisas, testes automatizados e conceitos como SOLID, além de estar antenado em questões de segurança, como as listadas pela OWASP.
+Tecnologias que tenho afinidade e gosto incluem: Java, Spring Boot, SQL, Git, GitHub Actions, Docker, Linux e, recentemente na minha vida, Python. Venho absorvendo conhecimento diariamente, principalmente relacionado aos fundamentos, pois não devemos nos prender a tecnologias.
+
+Atualmente faço parte do projeto de Prodocência da UERJ: https://github.com/calangodevteam/questionario, onde estou podendo aplicar na prática esses conhecimentos e ainda aprender muito mais.
