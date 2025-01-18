@@ -1,9 +1,9 @@
-### Olá!
+Github pessoal, mas minhas maiores e mais recentes contribuições foram em repositórios privados da empresa. 
 
-Com anos de dedicação aos estudos em computação, atualmente atuo como Desenvolvedor de Software Júnior na SaqPay. Minhas principais afinidades concentram-se no back-end e DevOps, onde tenho afinidade e já utilizei tecnologias como Java, Kotlin, Micronaut, Spring Boot, PostgreSQL, Docker, Git, GitHub Actions, Terraform, SQS, SNS e JUnit. Também explorei o universo do front-end, incluindo Angular, React, Bootstrap e as bases de HTML, CSS e JavaScript, evidenciando minha versatilidade para lidar com diversas tecnologias, independentemente das minhas afinidades.
+Desenvolvedor Full Stack com mais de 1 ano de experiência, com foco em back-end e adaptável a diferentes tecnologias. Destaque para habilidades com Kotlin, Micronaut, JPA/Hibernate, PostgreSQL, Docker, Terraform, JUnit, Mockito, Gradle, GitLab, TypeScript, React e ecossistema AWS (SQS, SNS, ECS, EC2, RDS, S3, Lambda). Experiência com arquitetura Hexagonal e aplicação de princípios SOLID.
 
-Minha habilidade autodidata, aprimorada ao longo dos anos, facilita a rápida assimilação de novos conhecimentos. Destaco-me pela eficácia na compreensão abrangente de documentações, artigos e demais recursos, aspectos cruciais para vencer desafios tecnológicos com destreza. Além disso, possuo inteligência emocional e paciência acima da média, fundamentais para enfrentar os obstáculos diários na área de desenvolvimento, como dedicar o dia à resolução de problemas complexos. 
+Para tudo na vida, acredito em fazer as coisas da maneira correta, com muito senso crítico e reflexão. Isso se reflete na minha área de atuação, onde busco entender a lógica por trás de cada tecnologia, estudar a eficiência de algoritmos e padrões de projeto, analisar problemas sob múltiplos ângulos para encontrar as melhores soluções e sempre manter a inteligência emocional. Coloco a experiência do cliente como prioridade, pois acredito que é por meio dela que muitas das nossas decisões devem ser guiadas.
 
-Tenho um perfil mais generalista, não me prendendo a tecnologias específicas, e focado na resolução de problemas. Minha abordagem é centrada na busca por soluções eficazes, independentemente das tecnologias envolvidas.
+CNPJ: 55.133.678/0001-34
 
 Acompanhe-me também pelo LinkedIn: https://www.linkedin.com/in/leandro-rocha-musser-carneiro/
